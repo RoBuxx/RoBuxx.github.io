@@ -11,7 +11,7 @@ $(document).ready(
      //select a div id or class by $(
       //.html () lets you type html  brackets
       //you can connect 
-       $('#counter').html('I have ' + max_tweet +' characters left');
+       $('#counter').html('You have ' + max_tweet +' characters left');
  $( "#tweeting" ).keyup(function() { // 
   var tweetingValue = $( "#tweeting" ).val().length;
   var charleft = max_tweet - tweetingValue;
