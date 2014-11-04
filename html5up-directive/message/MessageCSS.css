@@ -1,0 +1,21 @@
+#tweeting{
+  background-color:white;
+  text-align:center;
+  color:black;
+  padding-top:5px;
+}
+
+#input_twitter{
+  background-color:white;
+  text-align:center;
+  color:blue;
+  height:5px;
+  padding-top:2.5px;
+}
+
+#counter{
+  background-color:white;
+  text-align:center;
+  color:black;
+  height:30px;
+  padding-top:20px; 
