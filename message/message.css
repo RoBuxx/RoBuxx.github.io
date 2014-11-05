@@ -2,6 +2,7 @@
   background-color:white;
   font-family:'Papyrus',fantasy;
   text-align:center;
+  font-size:30px;
   color:black;
   padding-top:5px;
 }
@@ -9,6 +10,8 @@
 #input_twitter{
   background-color:white;
   text-align:center;
+  font-family:'Copperplate',fantasy;
+  font-size:30px;
   color:blue;
   height:5px;
   padding-top:2.5px;
@@ -17,6 +20,8 @@
 #counter{
   background-color:white;
   text-align:center;
+  font-family:'Arial Black',sans-serif;
+  font-size: 40px;
   color:black;
   height:30px;
-  padding-top:20px; 
+  padding-top:50px; 
